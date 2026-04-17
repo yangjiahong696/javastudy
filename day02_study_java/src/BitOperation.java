@@ -28,5 +28,6 @@ public class BitOperation {
         System.out.println(3<<2);
         System.out.println(16>>2);
         System.out.println(-16>>>2);
+        System.out.println("");
     }
 }
